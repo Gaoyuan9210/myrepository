@@ -15,6 +15,11 @@
 }
 ._图片 {
 }
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 ._一级标题 {
   font-family:'ArialMT', 'Arial';
   font-weight:bold;
@@ -69,9 +74,14 @@
   color:#000000;
   text-align:left;
 }
+._流程形状 {
+}
 .table_cell {
 }
 .connector {
+}
+.marker {
+  color:#FFFFFF;
 }
 .flow_shape {
 }
@@ -88,4 +98,6 @@
   font-family:'ArialMT', 'Arial';
   font-weight:400;
   font-style:normal;
+}
+.icon {
 }
